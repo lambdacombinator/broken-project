@@ -2,7 +2,6 @@
   "dependencies": {
     "dotenv": "*",
     "hono": "*",
-    "hono/cors": "*",
     "uuid": "*"
   }
 }
